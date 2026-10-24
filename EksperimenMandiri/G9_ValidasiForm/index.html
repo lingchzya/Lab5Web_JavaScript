@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>G9 - Validasi Form</title>
+  <style>.error { color: red; }</style>
+</head>
+<body>
+  <h2>G9 : Validasi Form Wajib Isi</h2>
+  <form onsubmit="validasiForm(event)">
+    <label>Nama:</label><br>
+    <input type="text" id="nama"><br>
+    <span id="errNama" class="error"></span><br><br>
+
+    <label>Nilai (0-100):</label><br>
+    <input type="number" id="nilai"><br>
+    <span id="errNilai" class="error"></span><br><br>
+
+    <button type="submit">Kirim</button>
+  </form>
+  <p id="pesanSukses" style="color: green;"></p>
+  <script src="script.js"></script>
+</body>
+</html>
