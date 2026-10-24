@@ -1,9 +1,9 @@
 # Laporan Praktikum Pemrograman Web - Pertemuan 6
 ## Praktikum 5: JavaScript Dasar dan Manipulasi HTML
 
-**Repository:** `Lab5Web_Javascript`[cite: 18, 19]  
-**Mata Kuliah:** Pemrograman Web[cite: 9]  
-**Program Studi:** Teknik Informatika[cite: 9]  
+**Repository:** `Lab5Web_Javascript` 
+**Mata Kuliah:** Pemrograman Web
+**Program Studi:** Teknik Informatika 
 
 ---
 
